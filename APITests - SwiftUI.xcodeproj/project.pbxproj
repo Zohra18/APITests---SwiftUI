@@ -13,6 +13,8 @@
 		3C2A3C7E2448974F0045D40C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C2A3C7D2448974F0045D40C /* Assets.xcassets */; };
 		3C2A3C812448974F0045D40C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C2A3C802448974F0045D40C /* Preview Assets.xcassets */; };
 		3C2A3C842448974F0045D40C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C2A3C822448974F0045D40C /* LaunchScreen.storyboard */; };
+		3C2A3C8C244898200045D40C /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2A3C8B244898200045D40C /* Data.swift */; };
+		3C2A3C8E24489CBA0045D40C /* PostListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C2A3C8D24489CBA0045D40C /* PostListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		3C2A3C802448974F0045D40C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3C2A3C832448974F0045D40C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C2A3C852448974F0045D40C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C2A3C8B244898200045D40C /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		3C2A3C8D24489CBA0045D40C /* PostListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				3C2A3C772448974D0045D40C /* AppDelegate.swift */,
 				3C2A3C792448974D0045D40C /* SceneDelegate.swift */,
 				3C2A3C7B2448974D0045D40C /* ContentView.swift */,
+				3C2A3C8B244898200045D40C /* Data.swift */,
+				3C2A3C8D24489CBA0045D40C /* PostListView.swift */,
 				3C2A3C7D2448974F0045D40C /* Assets.xcassets */,
 				3C2A3C822448974F0045D40C /* LaunchScreen.storyboard */,
 				3C2A3C852448974F0045D40C /* Info.plist */,
@@ -149,6 +155,8 @@
 				3C2A3C782448974D0045D40C /* AppDelegate.swift in Sources */,
 				3C2A3C7A2448974D0045D40C /* SceneDelegate.swift in Sources */,
 				3C2A3C7C2448974D0045D40C /* ContentView.swift in Sources */,
+				3C2A3C8C244898200045D40C /* Data.swift in Sources */,
+				3C2A3C8E24489CBA0045D40C /* PostListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
